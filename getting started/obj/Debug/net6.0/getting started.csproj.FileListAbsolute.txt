@@ -1,0 +1,15 @@
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\getting started\bin\Debug\net6.0\getting started.exe
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\getting started\bin\Debug\net6.0\getting started.deps.json
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\getting started\bin\Debug\net6.0\getting started.runtimeconfig.json
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\getting started\bin\Debug\net6.0\getting started.dll
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\getting started\bin\Debug\net6.0\getting started.pdb
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\getting started\obj\Debug\net6.0\getting started.csproj.AssemblyReference.cache
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\getting started\obj\Debug\net6.0\getting started.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\getting started\obj\Debug\net6.0\getting started.AssemblyInfoInputs.cache
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\getting started\obj\Debug\net6.0\getting started.AssemblyInfo.cs
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\getting started\obj\Debug\net6.0\getting started.csproj.CoreCompileInputs.cache
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\getting started\obj\Debug\net6.0\getting started.dll
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\getting started\obj\Debug\net6.0\refint\getting started.dll
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\getting started\obj\Debug\net6.0\getting started.pdb
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\getting started\obj\Debug\net6.0\getting started.genruntimeconfig.cache
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\getting started\obj\Debug\net6.0\ref\getting started.dll

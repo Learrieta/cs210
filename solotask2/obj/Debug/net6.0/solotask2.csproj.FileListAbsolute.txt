@@ -1,0 +1,15 @@
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\solotask2\bin\Debug\net6.0\solotask2.exe
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\solotask2\bin\Debug\net6.0\solotask2.deps.json
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\solotask2\bin\Debug\net6.0\solotask2.runtimeconfig.json
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\solotask2\bin\Debug\net6.0\solotask2.dll
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\solotask2\bin\Debug\net6.0\solotask2.pdb
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\solotask2\obj\Debug\net6.0\solotask2.csproj.AssemblyReference.cache
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\solotask2\obj\Debug\net6.0\solotask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\solotask2\obj\Debug\net6.0\solotask2.AssemblyInfoInputs.cache
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\solotask2\obj\Debug\net6.0\solotask2.AssemblyInfo.cs
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\solotask2\obj\Debug\net6.0\solotask2.csproj.CoreCompileInputs.cache
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\solotask2\obj\Debug\net6.0\solotask2.dll
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\solotask2\obj\Debug\net6.0\refint\solotask2.dll
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\solotask2\obj\Debug\net6.0\solotask2.pdb
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\solotask2\obj\Debug\net6.0\solotask2.genruntimeconfig.cache
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\solotask2\obj\Debug\net6.0\ref\solotask2.dll
