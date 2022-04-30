@@ -1,0 +1,15 @@
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\tic_tact_toe\bin\Debug\net6.0\tic_tact_toe.exe
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\tic_tact_toe\bin\Debug\net6.0\tic_tact_toe.deps.json
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\tic_tact_toe\bin\Debug\net6.0\tic_tact_toe.runtimeconfig.json
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\tic_tact_toe\bin\Debug\net6.0\tic_tact_toe.dll
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\tic_tact_toe\bin\Debug\net6.0\tic_tact_toe.pdb
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\tic_tact_toe\obj\Debug\net6.0\tic_tact_toe.csproj.AssemblyReference.cache
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\tic_tact_toe\obj\Debug\net6.0\tic_tact_toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\tic_tact_toe\obj\Debug\net6.0\tic_tact_toe.AssemblyInfoInputs.cache
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\tic_tact_toe\obj\Debug\net6.0\tic_tact_toe.AssemblyInfo.cs
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\tic_tact_toe\obj\Debug\net6.0\tic_tact_toe.csproj.CoreCompileInputs.cache
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\tic_tact_toe\obj\Debug\net6.0\tic_tact_toe.dll
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\tic_tact_toe\obj\Debug\net6.0\refint\tic_tact_toe.dll
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\tic_tact_toe\obj\Debug\net6.0\tic_tact_toe.pdb
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\tic_tact_toe\obj\Debug\net6.0\tic_tact_toe.genruntimeconfig.cache
+C:\Users\lhida\OneDrive - BYU-Idaho\Documents\cs210\tic_tact_toe\obj\Debug\net6.0\ref\tic_tact_toe.dll
