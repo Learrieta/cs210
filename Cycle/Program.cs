@@ -12,9 +12,7 @@ namespace Unit05
     class Program
     {
         /// <summary>
-        /// Starts the program using the given arguments.
-        /// </summary>
-        /// <param name="args">The given arguments.</param>
+        
         static void Main(string[] args)
         {
             // create the cast
@@ -23,6 +21,8 @@ namespace Unit05
             cast.AddActor("snake2", new Snake(600, "red"));
             cast.AddActor("score", new Score());
             cast.AddActor("food", new Food());
+
+            
             
 
            
