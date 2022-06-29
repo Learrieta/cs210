@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oY0OT272iltMDVl/lXmGoifXwn0ZVE3lthqY+ssW/hPkxrTeCYa+5dDx6QKKc63+Fk2ceROge2ZjM94UxUO41g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lhida\\OneDrive - BYU-Idaho\\Documents\\cs210\\Cycle\\Unit05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lhida\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\lhida\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
