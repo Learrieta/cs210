@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dFOhL7vaENEwumQXWJVddkhBI8i+9FBplnIShn9ckFUL2CvIvV2lpONzZZ1mieDj1sBZ43LMMO1fCBq3mqsg0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lhida\\OneDrive - BYU-Idaho\\Documents\\cs210\\PingPonz\\PingPonz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lhida\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\lhida\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
